@@ -1,0 +1,13 @@
+body{
+background-image:url("images/background.png");
+margin: 0 auto;
+width: 800px;
+}
+.game{
+border:5px solid red;
+margin-left: auto;
+margin-right: auto;
+width: 640;
+height: 480;
+padding:16px;
+}
