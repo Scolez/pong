@@ -7,7 +7,10 @@ width: 800px;
 border:5px solid red;
 margin-left: auto;
 margin-right: auto;
-width: 640;
-height: 480;
-padding:16px;
+width: 640px;
+height: 480px;
+position: relative;
 }
+.game > img {display: block; position: absolute;}
+#playerPaddle {left: 0px;}
+#computerPaddle {left: 620px;}
